@@ -7,7 +7,7 @@ NIM: 22/503629/SV/21524
 
 Kelas: PGWEB - B
 
-Avatar:
+Avatar/Foto:
 
-![Alt text](Foto2.png)
-<img src="Foto2.png" width ="50">
+![Alt text](Foto.jpg)
+<img src="Foto.jpg" width ="50">
